@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/manish7725.lwc-l3e3slnl-fork-l3e3xghu",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve f594Ik5GgdaxBSduPB8C --open"
+  }
+}
