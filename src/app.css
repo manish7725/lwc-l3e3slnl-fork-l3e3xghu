@@ -6,7 +6,12 @@ p {
     color: rgb(62, 62, 60);
 }
 .app {
-    background-color: #fafaf9;
+    background-color: #ebeee7;;
     height: 100vh;
     overflow: scroll;
+}
+.input{
+    color: rgb(62, 62, 60);
+    background-color: #74992e;
+    color: red;
 }
